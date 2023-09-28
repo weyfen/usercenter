@@ -1,0 +1,12 @@
+spring:
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
+    url: jdbc:mysql://rm-cn-uax3es7ev0001tbo.rwlb.rds.aliyuncs.com:3306/yupi
+    username: yupi
+    password: anlysiswyf0922!
+  session:
+    timeout:86400
+server:
+  port: 8080
+  address: 0.0.0.0
+
